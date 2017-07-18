@@ -14,3 +14,10 @@ step 2: important libraries
   4. lasagne
   5. glob
   6. pickle
+  
+step 3: follow isntruction in code
+ specially changing path for datatset and weights file(model.npz)
+
+Note: it will take time around many hours so have patience.
+
+And TA DA after some passing hours you will get trained network and it will also give you prediction on any image 
